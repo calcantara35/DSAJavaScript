@@ -1,0 +1,34 @@
+Stacks
+
+We visit the websites in order
+google
+udemy
+youtube
+
+Stack would look like:
+
+[
+    youtube -> last
+    udemy.com
+    google.com -> first
+]
+
+we want to go to twitter:
+Stack would look like:
+
+[
+    twitter
+    youtube
+    udemy.com
+    google.com -> first
+]
+
+now we want to go back to youtube ->
+Stack would look like:
+
+[
+    youtube -> last
+    udemy.com
+    google.com -> first
+]
+
